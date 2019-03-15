@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_margin">edit_text_margin</dimen>
+    <dimen name="button_margin">button_margin</dimen>
+    <dimen name="font_size_display">font_size_display</dimen>
+</resources>

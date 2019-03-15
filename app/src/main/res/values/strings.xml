@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W05D04Sol</string>
+    <string name="enter_user_email">enter_user_email</string>
+    <string name="enter_password">enter_password</string>
+    <string name="sign_on_user">sign_on_user</string>
+    <string name = "facebook_app_id">795324500845711</string>
+</resources>
